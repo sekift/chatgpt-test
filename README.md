@@ -1,11 +1,11 @@
 # chatgpt-test
  问问ChatGPT，记录一下TA的回答，并计分。
 
-| 学科 | 计分  | 得分（满分10分） |
-| ---- | ----- | ---------------- |
-| 数学 | 0.5/7 | 0.7              |
-| 物理 | 3.5/5 | 7                |
-| 天文 | 0/2   | 0                |
+| 学科 | 计分  | 得分（满分100分） |
+| ---- | ----- | ----------------- |
+| 数学 | 0.5/8 | 6.25              |
+| 物理 | 3.5/5 | 70                |
+| 天文 | 0/2   | 0                 |
 
 
 
@@ -22,7 +22,8 @@
 | 5    | Does the second derivative of an inflection point have to be 0？ | Yes, the second derivative of an inflection point must be 0. This is because an inflection point is a point on a graph where the concavity changes from convex to concave or vice versa. The second derivative of a function is a measure of the rate of change of the first derivative, so it must be 0 at an inflection point in order for the concavity to change. | 错误，也可能不存在            | 0    |
 | 6    | 2的32次方加1是质数吗？                                       | 是质数，2的32次方加1等于4294967297，它是一个大于2的质数。    | 错误，等于641*6700417，是合数 | 0    |
 | 7    | 正多面体有7种吗？                                            | 是的，正多面体有7种，分别是三角形、正方形、正五边形、正六边形、正七边形、正八边形和正十二边形。 | 错误，仅有5种                 | 0    |
-| 8    |                                                              |                                                              |                               |      |
+| 8    | 长度为10米的路，每隔1米种一棵树，一共可以种多少颗？          | 一共可以种10颗树。                                           | 错误，是11颗                  | 0    |
+| 9    |                                                              |                                                              |                               |      |
 
 ### 2 物理
 
