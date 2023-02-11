@@ -61,14 +61,26 @@
 
 ### 2 物理
 
-| 序号 | 问题                                               | TA回答                                                       | 正确？                                 | 得分 |
-| ---- | -------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------- | ---- |
-| 1    | 电子有反粒子吗？                                   | 是的，电子有反粒子，它被称为正电子。正电子是电子的反粒子，它们具有相反的电荷和质量。 | 部分正确，最后相反的质量是翻译的问题？ | 0.5  |
-| 2    | 玻色子需要遵守泡利不相容原理吗？                   | 不需要。泡利不相容原理是一种物理学原理，它描述了两个粒子不能处于同一态，因此玻色子不需要遵守泡利不相容原理。 | 结果正确，看下题。                     | 1    |
-| 3    | 费米子需要遵守泡利不相容原理吗？                   | 不需要。费米子是一种粒子，它不受泡利不相容原理的影响。泡利不相容原理只适用于粒子的波动性，而费米子是一种粒子，它不具有波动性。 | 双错误                                 | 0    |
-| 4    | Do Fermions obey the Pauli exclusion principle?    | Yes, Fermions obey the Pauli exclusion principle. This principle states that no two fermions can occupy the same quantum state at the same time. This is due to the fact that fermions have half-integer spin, which means that they must have opposite spins in order to occupy the same quantum state. | 正确                                   | 1    |
-| 5    | Does the boson obey the Pauli exclusion principle? | No, the boson does not obey the Pauli exclusion principle. The Pauli exclusion principle states that no two electrons can occupy the same quantum state, but bosons can occupy the same quantum state. | 正确                                   | 1    |
-| 6    |                                                    |                                                              |                                        |      |
+| 序号 | 问题                                                         | TA回答                                                       | 正确？                                 | 得分 |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------- | ---- |
+| 1    | 电子有反粒子吗？                                             | 是的，电子有反粒子，它被称为正电子。正电子是电子的反粒子，它们具有相反的电荷和质量。 | 部分正确，最后相反的质量是翻译的问题？ | 0.5  |
+| 2    | 玻色子需要遵守泡利不相容原理吗？                             | 不需要。泡利不相容原理是一种物理学原理，它描述了两个粒子不能处于同一态，因此玻色子不需要遵守泡利不相容原理。 | 结果正确，看下题。                     | 1    |
+| 3    | 费米子需要遵守泡利不相容原理吗？                             | 不需要。费米子是一种粒子，它不受泡利不相容原理的影响。泡利不相容原理只适用于粒子的波动性，而费米子是一种粒子，它不具有波动性。 | 双错误                                 | 0    |
+| 4    | Do Fermions obey the Pauli exclusion principle?              | Yes, Fermions obey the Pauli exclusion principle. This principle states that no two fermions can occupy the same quantum state at the same time. This is due to the fact that fermions have half-integer spin, which means that they must have opposite spins in order to occupy the same quantum state. | 正确                                   | 1    |
+| 5    | Does the boson obey the Pauli exclusion principle?           | No, the boson does not obey the Pauli exclusion principle. The Pauli exclusion principle states that no two electrons can occupy the same quantum state, but bosons can occupy the same quantum state. | 正确                                   | 1    |
+| 6    | 电子最大的移动速度是多少？                                   | 电子的最大移动速度取决于它所处的电场强度，但一般来说，它的最大移动速度可以达到光速的一半，也就是约300000000米/秒。 | 一半                                   | 0.5  |
+| 7    | 如果小明在地球上最高能跳1米，那么他在月球上最高能跳几米？    | 根据牛顿第二定律，小明在月球上最高能跳0.16米。               | 错误                                   | 0    |
+| 8    | 牛顿第一定律说的是什么？                                     | 牛顿第一定律（又称为牛顿运动定律）是物体在没有外力作用时保持静止或匀速直线运动的定律。它的具体表述是：“一个物体如果没有外力作用，它将保持静止或者以匀速直线运动”。 | 正确                                   | 1    |
+| 9    | 牛顿第二定律说的是什么？                                     | 牛顿第二定律指出，一个物体受到外力作用时，其加速度与外力成正比，即：F=ma，其中F为外力，m为物体的质量，a为物体的加速度。 | 正确                                   | 1    |
+| 10   | 根据牛顿第二定律，用10牛的力作用在质量为5的物体上，忽略其他因素，物体的加速度是多少？ | 根据牛顿第二定律，加速度等于力除以质量，因此加速度为10/5=2 m/s^2。 | 正确                                   | 1    |
+| 11   | 用10牛的力作用在质量为5的物体上，忽略其他因素，物体的加速度是多少？ | 根据牛顿第二定律，加速度等于力除以质量，因此加速度为2 m/s²。 | 正确                                   | 1    |
+| 12   | 根据牛顿第二定律，用10牛的力作用在质量为5的物体上，忽略其他因素，第二秒结束时，它的速度是多少？ | 根据牛顿第二定律，10牛的力作用在质量为5的物体上，忽略其他因素，第二秒结束时，它的速度是50米/秒。 | 错误                                   | 0    |
+| 13   | 根据牛顿第二定律，用10牛的力作用在质量为5的物体上，忽略其他因素，第二秒结束时，它的移动距离是多少？ | 根据牛顿第二定律，10牛的力作用在质量为5的物体上，忽略其他因素，第二秒结束时，它的移动距离是50米。 | 错误                                   | 0    |
+| 14   | 想从镜子里看到放大的像应该使用什么镜？                       | 你应该使用变焦镜，它可以改变焦距，从而改变物体的大小。       | 一半                                   | 0.5  |
+| 15   | 高山上的平均气温为什么比海平面的要低？                       | 高山上的平均气温比海平面的要低，是因为高山上的空气比海平面的空气更加稀薄，空气的稀薄会导致温度降低。此外，高山上的夜晚温度也比海平面的要低，因为高山上的空气更加稀薄，空气的稀薄会导致夜晚温度降低。 | 正确                                   | 1    |
+| 16   |                                                              |                                                              |                                        |      |
+| 17   |                                                              |                                                              |                                        |      |
+| 18   |                                                              |                                                              |                                        |      |
 
 ### 3 天文
 
